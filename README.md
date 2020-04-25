@@ -2,7 +2,8 @@
 Contrast Analyzer of Few Layer Van der Waals Materials
 
 Feel free to use this software for your research. This might be useful tool once
-it is setup to your needs.
+it is setup to your needs. This program supports currently only Windows 10, other
+plattforms were not tested. An executable for MacOSX and Linux will follow.
 When used for publications, cite the software as follows:
 
 Niemann L. (2020), CALAMARI (Version 1.0)[Software], Hamburg, Germany,
