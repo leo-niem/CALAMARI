@@ -1,7 +1,7 @@
 # CALAMARI
 Contrast Analyzer of Few Layer Van der Waals Materials
 
-![alt text](https://github.com/leo-niem/CALAMARI/master/Calamari_Icon.ico?raw=true)
+![alt text](https://github.com/leo-niem/CALAMARI/blob/master/Calamari_Icon.ico?raw=true)
 
 Feel free to use this software for your research. This might be useful tool once
 it is setup to your needs. This program supports currently only Windows 10, other
