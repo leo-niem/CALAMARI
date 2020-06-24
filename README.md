@@ -15,4 +15,4 @@ available at https://github.com/leo-niem/CALAMARI
 
 For further informations how to use CALAMARI see the documentaion.
 I appreciate that you are using CALAMARI.
-Leonhard Nieman (B. Sc. Nanoscience)
+Leonhard Niemann (B. Sc. Nanoscience)
